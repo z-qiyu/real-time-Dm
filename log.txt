@@ -1,0 +1,53 @@
+2021-06-23 00:21:42 run : all spider
+2021-06-23 00:21:43sp_4出现问题，错误:No option 'mail_msg' in section: 'email'
+2021-06-23 00:22:03sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212FFBAD2B0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 00:56:30 run : all spider
+2021-06-23 00:56:51sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C89D7A60>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 01:26:30 run : all spider
+2021-06-23 01:26:51sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C94D8D00>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 01:56:31 run : all spider
+2021-06-23 01:56:52sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C92853A0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 02:26:34 run : all spider
+2021-06-23 02:26:55sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C929E2B0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 02:56:37 run : all spider
+2021-06-23 02:56:58sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C98A4B80>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 03:26:40 run : all spider
+2021-06-23 03:27:01sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9D4A0A0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 03:56:43 run : all spider
+2021-06-23 03:57:04sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C936B6D0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 04:26:46 run : all spider
+2021-06-23 04:27:07sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C936BE50>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 04:56:49 run : all spider
+2021-06-23 04:57:10sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9A092E0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 05:26:52 run : all spider
+2021-06-23 05:27:13sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C89AC8E0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 05:56:52 run : all spider
+sp_4:网站已更新
+2021-06-23 05:57:13sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9520880>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 06:26:53 run : all spider
+2021-06-23 06:27:14sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C976ADF0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+sp_4:网站已更新
+2021-06-23 06:56:55 run : all spider
+2021-06-23 06:57:16sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9B2CB80>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 07:26:56 run : all spider
+2021-06-23 07:27:17sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9DA8CA0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 07:56:59 run : all spider
+2021-06-23 07:57:20sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C98A76D0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 08:27:00 run : all spider
+2021-06-23 08:27:21sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9D67FA0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 08:57:00 run : all spider
+2021-06-23 08:57:22sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9CE6550>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 09:27:05 run : all spider
+2021-06-23 09:27:26sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9308070>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+sp_1:网站已更新
+2021-06-23 09:57:07 run : all spider
+2021-06-23 09:57:28sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9C7EEE0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+sp_1:网站已更新
+2021-06-23 10:27:12 run : all spider
+2021-06-23 10:27:33sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9B55820>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 10:57:13 run : all spider
+2021-06-23 10:57:34sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C9CDD6A0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 11:27:15 run : all spider
+2021-06-23 11:27:36sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C98A48E0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
+2021-06-23 11:57:16 run : all spider
+2021-06-23 11:57:37sp_3出现问题，错误:HTTPConnectionPool(host='www.cdtrczp.com', port=80): Max retries exceeded with url: /cdtrw/NewsCenter.aspx?Type=3 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247C93558B0>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
