@@ -11,3 +11,5 @@ read the configuration file and get real time and write to log file.
 If the retrieved data file has changed, it's called a websiteupdate, and if website has been updated, email is used to prompt the user.
 
 the config.txt is configuration file , You can configure the frequency inside and Some configuration about mail.
+
+the csv file ,I need GBK encoding.
